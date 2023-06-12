@@ -1,9 +1,5 @@
 {
-  "dependencies": {
-    "dynamoose": "^3.2.0"
-  },
   "name": "serverless-api",
-  "description": "",
   "version": "1.0.0",
   "main": "index.mjs",
   "devDependencies": {},
@@ -12,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dynamoose": "^3.2.0"
+  },
+  "description": ""
 }
