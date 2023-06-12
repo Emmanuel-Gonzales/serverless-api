@@ -6,12 +6,6 @@
 
 Create a single resource REST API using a domain model of your choosing, constructed using AWS Cloud Services.
 
-### Links and Resources
-
-- [GitHub Actions ci/cd](https://github.com/rkgallaway/server-deployment-practice-d51/actions) 
-- [back-end server url](http://xyz.com) (when applicable)
-- [front-end application](http://xyz.com) (when applicable)
-
 ### Collaborators
 
 ### Setup
