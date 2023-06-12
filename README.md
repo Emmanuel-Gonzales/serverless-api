@@ -14,6 +14,10 @@ Create a single resource REST API using a domain model of your choosing, constru
 
 for now I have none and do not require one
 
+### Links and Resources
+
+- [Server Link](https://rvdd35cwrl.execute-api.us-east-2.amazonaws.com/Alpha)
+
 #### How to initialize/run your application (where applicable)
 
 - `npm start`
